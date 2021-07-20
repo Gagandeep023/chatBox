@@ -1,0 +1,13 @@
+p {
+    color:red;
+}
+
+h2 {
+    border: 10px solid black;
+    text-transform: uppercase;
+    font-size: 40px;
+    background-color: rgb(92, 92, 122);
+    color: rgb(192, 142, 127);
+
+
+}
